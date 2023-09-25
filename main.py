@@ -15,10 +15,13 @@ while loop:
  """)
   if responce == "1":
     print("text")
+    #someway end the program after the option is selected because once I picked 1, the while loop kept on repeating the input message.
   if responce == "2":
     print("text")
+    #someway end the program after the option is selected because once I picked 1, the while loop kept on repeating the input message.
   if responce == "3":
     print("text")
+    #someway end the program after the option is selected because once I picked 1, the while loop kept on repeating the input message.
   if responce == "4":
     loop = False
 print("have a nice day.")
